@@ -7,13 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st year Ph.D. candidate student advised by Prof. [Kuk-Jin Yoon](https://scholar.google.co.kr/citations?user=1NvBj_gAAAAJ&hl=en) at [Visual Intelligence Lab (VILab)](https://vi.kaist.ac.kr/), Korea Advanced Institute of Science and Technology (KAIST). 
-I am actively seeking a research intern position.
+Hello! I am a first-year Ph.D. student advised by Prof. [Kuk-Jin Yoon](https://scholar.google.co.kr/citations?user=1NvBj_gAAAAJ&hl=en) at the [Visual Intelligence Lab (VILab)](https://vi.kaist.ac.kr/), Korea Advanced Institute of Science and Technology (KAIST).
 <br/>
 
-I am dedicated to advancing the understanding and prediction of environmental data through innovative approaches that utilize minimal or weak annotations, significantly reducing the annotation burden.
-I have tackled a range of tasks such as semantic segmentation, data completion, and domain adaptations.
-My expertise spans various data modalities, including images, and point cloud (LiDAR).
+My research focuses on developing methods that <b>reliably extract and utilize semantic information from visual data</b>.
+I am broadly interested in how models can maintain semantic consistency across domains, modalities, and interaction scenarios.
+<br/>
+
+Recently, I have become increasingly interested in <b>multimodal setting and representation learning</b>, including how strong foundation models—such as <b>VLA models, diffusion models, and SAM/SAM2-style segmentation systems</b>—can be adapted and leveraged for robust visual understanding.
+I am also exploring <b>egocentric perception</b> and the integration of cues like eye-gaze to enhance semantic interpretation and user interaction in immersive VR/AR environments.
+<br/>
+
+Ultimately, my research aims to understand how semantic structures can be extracted from diverse visual modalities and effectively applied to create more adaptive and intelligent perception systems.
+I am always open to discussions and collaborations—feel free to reach out anytime!
 <br/>
 
 My CV can be found in [here](https://kwonhoyong3.github.io/assets/HoyongKwon_KAIST_Robotics_CV_250924.pdf)
