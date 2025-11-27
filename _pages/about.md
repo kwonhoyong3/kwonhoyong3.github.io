@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate student advised by Prof. [Kuk-Jin Yoon](https://scholar.google.co.kr/citations?user=1NvBj_gAAAAJ&hl=en) at [Visual Intelligence Lab (VILab)](https://vi.kaist.ac.kr/), Korea Advanced Institute of Science and Technology (KAIST). 
+I am a 1st year Ph.D. candidate student advised by Prof. [Kuk-Jin Yoon](https://scholar.google.co.kr/citations?user=1NvBj_gAAAAJ&hl=en) at [Visual Intelligence Lab (VILab)](https://vi.kaist.ac.kr/), Korea Advanced Institute of Science and Technology (KAIST). 
 I am actively seeking a research intern position.
 <br/>
 
@@ -16,7 +16,7 @@ I have tackled a range of tasks such as semantic segmentation, data completion, 
 My expertise spans various data modalities, including images, and point cloud (LiDAR).
 <br/>
 
-My CV can be found in [here](https://jihun1998.github.io/assets/Academic_Curriculum_Vitae__Copy_.pdf)
+My CV can be found in [here](https://kwonhoyong3.github.io/assets/HoyongKwon_KAIST_Robotics_CV_250924.pdf)
 <br/>
 
 
@@ -30,9 +30,17 @@ Publications
     <!-- Text Content -->
     <div class="publication-info">
         DC-TTA: Divide-and-Conquer Framework for Test-Time Adaptation of Interactive Segmentation<br>
-        <b>J. Kim*</b>, H. Kwon*, H. Kweon*, W. Jeong, K. Yoon<br>
+        Jihun Kim*, <b>Hoyong Kwon*</b>, Hyeokjun Kweon*, Wooseong Jeong, Kuk-Jin Yoon<br>
         <b>ICCV 2025</b><br>
-        <a href="http://arxiv.org/abs/2506.23104">[paper]</a>
+        <div class="pub-links">
+            <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_DC-TTA_Divide-and-Conquer_Framework_for_Test-Time_Adaptation_of_Interactive_Segmentation_ICCV_2025_paper.pdf">Paper</a>
+            <span>|</span>
+            <a href="https://openaccess.thecvf.com/content/ICCV2025/supplemental/Kim_DC-TTA_Divide-and-Conquer_Framework_ICCV_2025_supplemental.zip">Supp</a>
+            <span>|</span>
+            <a href="https://arxiv.org/abs/2506.23104">ArXiv</a>
+            <span>|</span>
+            <a href="https://github.com/jihun1998/DCTTA">Code</a>
+        </div>
     </div>
 </div>
 <br/>
