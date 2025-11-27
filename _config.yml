@@ -21,7 +21,7 @@ repository               : "kwonhoyong3/kwonhoyong3.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot_2.jpg"
+  avatar           : "HoyongKwon.jpg"
   name             : "Hoyong Kwon"
   pronouns         : # example: "she/her"  
   bio              : "1st year PhD candidate student @ KAIST \n kwonhoyong3@kaist.ac.kr"

@@ -25,13 +25,13 @@ My CV can be found in [here](https://kwonhoyong3.github.io/assets/HoyongKwon_KAI
 Publications
 ======
 <div style="display: flex; align-items: center;">
-    <img src='/images/DCTTA_qual.PNG' alt='ICCV 2025' class="publication-image">
+    <img src='/images/publication_images/ICCV25_DCTTA_fig.png' alt='ICCV 2025' class="publication-image">
 
     <!-- Text Content -->
     <div class="publication-info">
         DC-TTA: Divide-and-Conquer Framework for Test-Time Adaptation of Interactive Segmentation<br>
         Jihun Kim*, <b>Hoyong Kwon*</b>, Hyeokjun Kweon*, Wooseong Jeong, Kuk-Jin Yoon<br>
-        <b>ICCV 2025</b><br>
+        <b>International Conference on Computer Vision (ICCV) 2025</b><br>
         <div class="pub-links">
             <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_DC-TTA_Divide-and-Conquer_Framework_for_Test-Time_Adaptation_of_Interactive_Segmentation_ICCV_2025_paper.pdf">Paper</a>
             <span>|</span>
@@ -45,66 +45,59 @@ Publications
 </div>
 <br/>
 <div style="display: flex; align-items: center;">
-    <img src='/images/MultiViewDroneAbstraction.png' alt='IEEE Access' class="publication-image">
+    <img src='/images/publication_images/ECCV24_WSSS_PCSS_fig.png' alt='ECCV 2024' class="publication-image">
 
     <!-- Text Content -->
     <div class="publication-info">
-        Multi-View 3D Scene Abstraction from Drone-Captured RGB Images<br>
-        W. Jeong*, <b>J. Kim*</b>, H. Kweon*, K. Yoon<br>
-        <b>IEEE Access</b><br>
-        <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10872931">[paper]</a>
+        Phase Concentration and Shortcut Suppression for Weakly Supervised Semantic Segmentation<br>
+        <b>Hoyong Kwon</b>, Jaeseok Jeong, Sung-Hoon Yoon, Kuk-Jin Yoon<br>
+        <b>European Conference on Computer Vision (ECCV) 2024</b><br>
+        <div class="pub-links">
+            <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04729.pdf">Paper</a>
+            <span>|</span>
+            <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04729-supp.pdf">Supp</a>
+            <span>|</span>
+            <a href="https://github.com/kwonhoyong3/PCSS-WSSS">Code</a>
+        </div>
     </div>
 </div>
 <br/>
 <div style="display: flex; align-items: center;">
-    <img src='/images/qual_kitti.png' alt='NeurIPS 2024' class="publication-image">
+    <img src='/images/publication_images/ECCV24_WSSS_DiG_fig.png' alt='ECCV 2024' class="publication-image">
 
     <!-- Text Content -->
     <div class="publication-info">
-        TALoS: Enhancing Semantic Scene Completion via Test-time Adaptation on the Line of Sight<br>
-        H. Jang*, <b>J. Kim*</b>, H. Kweon*, K. Yoon<br>
-        <b>NeurIPS 2024</b><br>
-        <a href="https://openreview.net/forum?id=gZWYdJ3c26&referrer=%5Bthe%20profile%20of%20Kuk-Jin%20Yoon%5D(%2Fprofile%3Fid%3D~Kuk-Jin_Yoon1)">[paper]</a>
+        Diffusion-Guided Weakly Supervised Semantic Segmentation<br>
+        Sung-Hoon Yoon, <b>Hoyong Kwon*</b>, Jaeseok Jeong*, Daehee Park, Kuk-Jin Yoon<br>
+        <b>European Conference on Computer Vision (ECCV) 2024</b><br>
+        <div class="pub-links">
+            <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06482.pdf">Paper</a>
+            <span>|</span>
+            <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06482-supp.pdf">Supp</a>
+            <span>|</span>
+            <a href="https://github.com/yoon307/DiG">Code</a>
+        </div>
     </div>
 </div>
 <br/>
 <div style="display: flex; align-items: center;">
-    <img src='/images/syn2real.PNG' alt='ECCV 2024' class="publication-image">
+    <img src='/images/publication_images/CVPR24_WSSS_CTI_fig.png' alt='CVPR 2024' class="publication-image">
 
     <!-- Text Content -->
     <div class="publication-info">
-        Syn-to-Real Domain Adaptation for Point Cloud Completion via Part-based Approach<br>
-        Y. Yang*, <b>J. Kim*</b>, K. Yoon<br>
-        <b>ECCV 2024</b><br>
-        <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06768.pdf">[paper]</a> 
+        Class Tokens Infusion for Weakly Supervised Semantic Segmentation<br>
+        Sung-Hoon Yoon, <b>Hoyong Kwon</b>, Hyeonseong Kim, Kuk-Jin Yoon<br>
+        <b>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024</b><br>
+        <div class="pub-links">
+            <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Yoon_Class_Tokens_Infusion_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf">Paper</a>
+            <span>|</span>
+            <a href="https://openaccess.thecvf.com/content/CVPR2024/supplemental/Yoon_Class_Tokens_Infusion_CVPR_2024_supplemental.pdf">Supp</a>
+            <span>|</span>
+            <a href="https://github.com/yoon307/CTI">Code</a>
+        </div>
     </div>
 </div>
 <br/>
-<div style="display: flex; align-items: center;">
-    <img src='/images/ao.png' alt='CVPR 2024' class="publication-image">
-
-    <!-- Text Content -->
-    <div class="publication-info">
-        Weakly Supervised Point Cloud Semantic Segmentation via Artificial Oracle<br>
-        H. Kweon*, <b>J. Kim*</b>, K. Yoon<br>
-        <b>CVPR 2024</b><br>
-        <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Kweon_Weakly_Supervised_Point_Cloud_Semantic_Segmentation_via_Artificial_Oracle_CVPR_2024_paper.pdf">[paper]</a> 
-    </div>
-</div>
-<br/>
-<div style="display: flex; align-items: center;">
-    <img src='/images/pc.png' alt='ICCV 2023' class="publication-image">
-
-    <!-- Text Content -->
-    <div class="publication-info">
-        Learning Point Cloud Completion without Complete Point Clouds: A Pose-aware Approach<br>
-        <b>J. Kim</b>, H. Kweon, Y. Yang, K. Yoon<br>
-        <b>ICCV 2023</b><br>
-        <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Kim_Learning_Point_Cloud_Completion_without_Complete_Point_Clouds_A_Pose-Aware_ICCV_2023_paper.pdf">[paper]</a> 
-    </div>
-</div>
-<br/>
-
 
 <style>
     .publication-container {
@@ -174,20 +167,17 @@ Publications
 
 Selected Honors and Awards
 ======
-- 2017 / KAIST Dean's List
-- 2021 / KAIST magna cum laude
+- 2023 / Magna Cum Laude, KAIST BS
+- 2021-2022 / National Science & Technology Scholarship, Korea Student Aid Foundation
+- 2020 / Dean's List, KAIST College of Engineering
 <br/>
 
 
 
-Projects
+Research Experiences
 ======
-- 2021 ~ 2022 / Autonomous ship collision and accident prevention situation awareness system / object detection, object tracking, and data labeling 
+- 2025.03 - Present / <b>Project Leader</b> / Development of Mobility and Connectivity Platform for Unmanned Autonomous Delivery / Multi-Modal Fusion, 3D Object&Lane Detection, ROS2
 <br/>
-- 2023 ~ 2024 / Surround view depth estimation for autonomous vehicle systems / depth estimation, self-supervised learning, and surround view reconstruction
+- 2024.01 - 2025.02 / <b>Project Member</b> / Development of Mobility and Connectivity Platform for Unmanned Autonomous Delivery / Multi-Modal Fusion, 3D Object&Lane Detection, ROS2
 <br/>
-- 2024 ~ 2025/ Unmanned Swarm CPS Research Laboratory Program of Defense Acquisition Program / drone imaging, image stitching, 3D reconstruction, and point cloud semantic segmentation
-<br/>
-- 2025 ~ present/ Development of Automated Particle Analysis Technology Using SEM Images of Cathode Materials / instance segmentation, segment anything model, and small object detection
-
-
+- 2022.03 - 2022.08 / <b>Internship</b> / NCSOFT Vision AI Lab Recognition Team / Keypoint Detection, Markerless Face Wrapping
