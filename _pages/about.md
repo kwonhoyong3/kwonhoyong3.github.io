@@ -22,7 +22,7 @@ Ultimately, my research aims to understand how semantic structures can be extrac
 I am always open to discussions and collaborations—feel free to reach out anytime!
 <br/>
 
-My CV can be found in [here](https://kwonhoyong3.github.io/assets/HoyongKwon_KAIST_Robotics_CV_250924.pdf)
+My CV can be found in [here](https://kwonhoyong3.github.io/assets/docs/HoyongKwon_KAIST_Robotics_CV.pdf)
 <br/>
 
 
