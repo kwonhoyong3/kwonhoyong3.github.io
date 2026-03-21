@@ -1,21 +1,23 @@
 ---
 permalink: /
 title: "Bio"
+description: "Hoyong Kwon personal homepage. KAIST VILab Ph.D. student researching computer vision, multimodal learning, semantic segmentation, and robotics AI."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! I am a first-year Ph.D. student advised by Prof. [Kuk-Jin Yoon](https://scholar.google.co.kr/citations?user=1NvBj_gAAAAJ&hl=en) at the [Visual Intelligence Lab (VILab)](https://vi.kaist.ac.kr/), Korea Advanced Institute of Science and Technology (KAIST).
+Hello! I am a second-year Ph.D. student advised by Prof. [Kuk-Jin Yoon](https://scholar.google.co.kr/citations?user=1NvBj_gAAAAJ&hl=en) at the [Visual Intelligence Lab (VILab)](https://vi.kaist.ac.kr/), Korea Advanced Institute of Science and Technology (KAIST).
 <br/>
 
 My research focuses on developing methods that <b>reliably extract and utilize semantic information from visual data</b>.
 I am broadly interested in how models can maintain semantic consistency across domains, modalities, and interaction scenarios.
 <br/>
 
-Recently, I have become increasingly interested in <b>multimodal setting and representation learning</b>, including how strong foundation models—such as <b>VLA models, diffusion models, and SAM/SAM2-style segmentation systems</b>—can be adapted and leveraged for robust visual understanding.
-I am also exploring <b>egocentric perception</b> and the integration of cues like eye-gaze to enhance semantic interpretation and user interaction in immersive VR/AR environments.
+Recently, I have become increasingly interested in <b>multimodal setting and representation learning</b>, including how strong foundation models—such as <b>Diffusion models, and SAM/SAM2-style segmentation systems</b>—can be adapted and leveraged for robust visual understanding.
+I also have interest in <b>egocentric perception</b> and the integration of cues like eye-gaze to enhance semantic interpretation and user interaction in immersive VR/AR environments.
+Currently, I am exploring <b>Multi-Agent Reinforcement Learning</b>, which I believe is the direction I should pursue as an AI researcher.
 <br/>
 
 Ultimately, my research aims to understand how semantic structures can be extracted from diverse visual modalities and effectively applied to create more adaptive and intelligent perception systems.
@@ -30,6 +32,31 @@ My CV can be found in [here](https://kwonhoyong3.github.io/assets/docs/HoyongKwo
 
 Publications
 ======
+<div style="display: flex; align-items: center;">
+    <img src='/images/publication_images/CVPR26_MDM_fig.png' alt='CVPR 2026' class="publication-image">
+
+    <!-- Text Content -->
+    <div class="publication-info">
+        Multimodal Distribution Matching for Vision-Language Dataset Distillation<br>
+        Jongoh Jeong*, <b>Hoyong Kwon*</b>, Minseok Kim*, Kuk-Jin Yoon<br>
+        <b>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026</b><br>
+        <div class="pub-links">
+            <a href="https://andyj1.github.io/mdm/">Project Page</a>
+        </div>
+    </div>
+</div>
+<br/>
+<div style="display: flex; align-items: center;">
+    <img src='/images/publication_images/CVPR26_DiTTA_fig.png' alt='CVPR 2026' class="publication-image">
+
+    <!-- Text Content -->
+    <div class="publication-info">
+        Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation<br>
+        Jihun Kim*, <b>Hoyong Kwon*</b>, Hyeokjun Kweon*, Kuk-Jin Yoon<br>
+        <b>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026</b><br>
+    </div>
+</div>
+<br/>
 <div style="display: flex; align-items: center;">
     <img src='/images/publication_images/ICCV25_DCTTA_fig.png' alt='ICCV 2025' class="publication-image">
 
