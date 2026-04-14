@@ -54,6 +54,9 @@ Publications
         Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation<br>
         Jihun Kim*, <b>Hoyong Kwon*</b>, Hyeokjun Kweon*, Kuk-Jin Yoon<br>
         <b>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026</b><br>
+        <div class="pub-links">
+            <a href="https://arxiv.org/abs/2604.10950">ArXiv</a>
+        </div>
     </div>
 </div>
 <br/>
