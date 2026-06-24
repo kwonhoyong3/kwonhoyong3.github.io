@@ -42,6 +42,7 @@ Publications
         <b>The European Conference on Computer Vision (ECCV) 2026</b><br>
     </div>
 </div>
+<br/>
 <div style="display: flex; align-items: center;">
     <img src='/images/publication_images/CVPR26_MDM_fig.png' alt='CVPR 2026' class="publication-image">
 
