@@ -33,6 +33,16 @@ My CV can be found in [here](https://kwonhoyong3.github.io/assets/docs/HoyongKwo
 Publications
 ======
 <div style="display: flex; align-items: center;">
+    <img src='/images/publication_images/ECCV26_DINOde_fig.png' alt='ECCV 2026' class="publication-image">
+
+    <!-- Text Content -->
+    <div class="publication-info">
+        DINOde: Continuous Vision-Text Alignment for Open-Vocabulary Semantic Segmentation<br>
+        Sung-Hoon Yoon*, <b>Hoyong Kwon*</b>, Changgyoon Oh*, Kuk-Jin Yoon<br>
+        <b>The European Conference on Computer Vision (ECCV) 2026</b><br>
+    </div>
+</div>
+<div style="display: flex; align-items: center;">
     <img src='/images/publication_images/CVPR26_MDM_fig.png' alt='CVPR 2026' class="publication-image">
 
     <!-- Text Content -->
