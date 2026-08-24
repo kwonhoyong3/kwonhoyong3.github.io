@@ -40,6 +40,11 @@ Publications
         DINOde: Continuous Vision-Text Alignment for Open-Vocabulary Semantic Segmentation<br>
         Sung-Hoon Yoon*, <b>Hoyong Kwon*</b>, Changgyoon Oh*, Kuk-Jin Yoon<br>
         <b>The European Conference on Computer Vision (ECCV) 2026</b><br>
+        <div class="pub-links">
+            <a href="https://arxiv.org/abs/2607.21371">ArXiv</a>
+            <span>|</span>
+            <a href="https://github.com/yoon307/DINOde">Code</a>
+        </div>
     </div>
 </div>
 <br/>
@@ -53,6 +58,14 @@ Publications
         <b>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026</b><br>
         <div class="pub-links">
             <a href="https://andyj1.github.io/mdm/">Project Page</a>
+            <span>|</span>
+            <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Jeong_Multimodal_Distribution_Matching_for_Vision-Language_Dataset_Distillation_CVPR_2026_paper.pdf">Paper</a>
+            <span>|</span>
+            <a href="https://openaccess.thecvf.com/content/CVPR2026/supplemental/Jeong_Multimodal_Distribution_Matching_CVPR_2026_supplemental.pdf">Supp</a>
+            <span>|</span>
+            <a href="https://arxiv.org/abs/2605.23482">ArXiv</a>
+            <span>|</span>
+            <a href="https://github.com/andyj1/mdm">Code</a>
         </div>
     </div>
 </div>
@@ -66,7 +79,13 @@ Publications
         Jihun Kim*, <b>Hoyong Kwon*</b>, Hyeokjun Kweon*, Kuk-Jin Yoon<br>
         <b>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026</b><br>
         <div class="pub-links">
+            <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_Bootstrapping_Video_Semantic_Segmentation_Model_via_Distillation-assisted_Test-Time_Adaptation_CVPR_2026_paper.pdf">Paper</a>
+            <span>|</span>
+            <a href="https://openaccess.thecvf.com/content/CVPR2026/supplemental/Kim_Bootstrapping_Video_Semantic_CVPR_2026_supplemental.pdf">Supp</a>
+            <span>|</span>
             <a href="https://arxiv.org/abs/2604.10950">ArXiv</a>
+            <span>|</span>
+            <a href="https://github.com/jihun1998/DiTTA">Code</a>
         </div>
     </div>
 </div>
