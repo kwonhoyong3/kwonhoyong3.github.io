@@ -233,6 +233,7 @@ Publications
 
 Selected Honors and Awards
 ======
+- 2026 / NeurIPS 2026 Top Reviewer
 - 2023 / Magna Cum Laude, KAIST BS
 - 2021-2022 / National Science & Technology Scholarship, Korea Student Aid Foundation
 - 2020 / Dean's List, KAIST College of Engineering
